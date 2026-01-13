@@ -6,9 +6,9 @@ A simplified Invoice Management Dashboard built for MSMEs (Micro, Small & Medium
 
 ## 🚀 Live Demo
 
-**Live URL:** [Add your Netlify/Vercel deployment link here]
+**Live URL:** [https://msme-invoice-management-dashboard.netlify.app/]
 
-**GitHub Repository:** [Add your GitHub repository link here]
+**GitHub Repository:** [https://github.com/Harshraj7718/MSME-Invoice-Management-Dashboard]
 
 ---
 
@@ -306,10 +306,10 @@ npm run preview
 
 ## 👨‍💻 Developer
 
-**Your Name**  
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [Your LinkedIn Profile]  
-🐙 GitHub: [@yourusername](https://github.com/yourusername)
+**Harsh Raj**  
+📧 Email: rajharsh71018@gmail.com  
+🔗 LinkedIn: [https://www.linkedin.com/in/harsh-raj-4b803125a/]  
+🐙 GitHub: [@Harshraj7718](https://github.com/Harshraj7718)
 
 
 ---
